@@ -1,0 +1,47 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Marriage",
+      "image": "https://github.com/fuzedMinds/imageHost/blob/main/marriage.jpg?raw=true",
+      "short_description": "Crafting memorable weddings with personalized themes, stunning decor, and seamless planning. We ensure every moment of your big day is cherished forever."
+    },
+    {
+      "id": 2,
+      "name": "Thread cerimony",
+      "image": "https://raw.githubusercontent.com/fuzedMinds/imageHost/refs/heads/main/threadCerimony.webp",
+      "short_description": "Honoring traditions with thoughtful arrangements and culturally inspired setups. Celebrate this sacred milestone with elegance and care."
+    },
+    {
+      "id": 3,
+      "name": "Corporate Events",
+      "image": "https://github.com/fuzedMinds/imageHost/blob/main/corporateEvent.jpg?raw=true",
+      "short_description": "Delivering professional and impactful corporate events, from conferences to product launches. We handle every detail to impress your guests and achieve your goals."
+    },
+    {
+      "id": 4,
+      "name": "Birthday",
+      "image": "https://raw.githubusercontent.com/fuzedMinds/imageHost/refs/heads/main/birthdayParty.webp",
+      "short_description": "Turning birthdays into unforgettable celebrations with unique themes and fun-filled activities. Make every milestone magical and joyful."
+    },
+    {
+      "id": 5,
+      "name": "Aniversary ",
+      "image": "https://github.com/fuzedMinds/imageHost/blob/main/aniversary.jpg?raw=true",
+      "short_description": "Celebrate love and togetherness with intimate and grand anniversary parties. We create heartwarming experiences to cherish your journey together."
+    },
+    {
+      "id": 6,
+      "name": "Bachlore Party",
+      "image": "https://raw.githubusercontent.com/fuzedMinds/imageHost/refs/heads/main/bachelor-party.webp",
+      "short_description": "Plan the ultimate send-off with thrilling bachelor or bachelorette parties. From wild adventures to classy affairs, we make it unforgettable."
+    },
+    {
+      "id": 7,
+      "name": "Private Party",
+      "image": "https://github.com/fuzedMinds/imageHost/blob/main/privaeParty.jpg?raw=true",
+      "short_description": "Host exclusive gatherings with personalized touches and seamless execution. We bring your vision to life for any intimate occasion."
+    }
+
+  ]
+}
