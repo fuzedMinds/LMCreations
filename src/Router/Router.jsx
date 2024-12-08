@@ -33,24 +33,12 @@ const router = createBrowserRouter([
         loader: () => fetch("/events-data.json"),
       },
       {
-        path: "/event/:id",
-        element: <EventDetails />,
-        loader: () => fetch("/events-data.json"),
-      },
-
-      {
-        path: "/Speakers",
-        element: <Speakers />,
-        loader: () => fetch("/events-data.json"),
-      },
-      {
         path: "/about-us",
         element: <AboutUs />,
       },
       {
         path: "/contact-us",
         element: <ContactUs />,
-        // loader: () => fetch("/events-data.json"),
       },
     ],
   },
