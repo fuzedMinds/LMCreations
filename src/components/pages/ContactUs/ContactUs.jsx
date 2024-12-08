@@ -23,7 +23,8 @@ const ContactUs = () => {
       <div
         className="hero relative min-h-[30vh] bg-[#053B50] flex items-center justify-center pt-24"
         style={{
-          backgroundImage: "url(https://i.ibb.co/CHCh7fv/cool-background.png)",
+          backgroundImage:
+            "url(https://github.com/fuzedMinds/imageHost/blob/main/ContactUsCard1.jpg?raw=true)",
         }}
       >
         <div className="relative z-10 text-center text-neutral-content">
