@@ -5,10 +5,6 @@ import React, { useState, useEffect } from "react";
 
 const NavBar = () => {
   const [top, setTop] = React.useState(!window.scrollY);
-  const [isOpen, setisOpen] = React.useState(false);
-  function handleClick() {
-    setisOpen(!isOpen);
-  }
 
   useEffect(() => {
     const scrollHandler = () => {

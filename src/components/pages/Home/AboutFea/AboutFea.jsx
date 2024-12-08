@@ -1,6 +1,3 @@
-import gifOne from "../../../../assets/video/main-macaron-1_A.gif";
-import gifTwo from "../../../../assets/video/main-macaron-2_A.gif";
-
 const AboutFea = () => {
   return (
     <div className=" text-rose-400 text-center p-5">
