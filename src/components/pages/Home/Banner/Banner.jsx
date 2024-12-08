@@ -1,9 +1,10 @@
+import bgImage from "../../../../assets/partyPeople1.webp";
 const Banner = () => {
   return (
     <div className="md:max-h-screen  mx-auto  lg:h-[800px] ">
       <img
         className="object-cover h-[400px] md:h-fit w-screen lg:h-screen  relative -z-1 top-0  "
-        src="https://github.com/fuzedMinds/imageHost/blob/main/partyPeople.jpg?raw=true"
+        src={bgImage}
       ></img>
 
       <div
